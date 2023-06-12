@@ -50,7 +50,7 @@ global.socialm = "GitHub: GURU" //ur github or insta name
 global.location = "India, Odisha, Cuttack" //ur location
 
 //bot bomdy 
-global.owner = ['917605902011']
+global.owner = ['9037546246']
 global.botname = 'Akeno Bot MD V4' //ur bot name
 global.linkz = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.instagram.com/lungs__hacker/" //ur website to be displayed
@@ -100,7 +100,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: 'just a minute ',
     linkm: 'Darling Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
